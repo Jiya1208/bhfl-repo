@@ -1,0 +1,6 @@
+app.user.full-name=jiya_patidar
+app.user.dob=15122004
+app.user.email=jiyapatidar230200@acropolis.in
+app.user.roll-number=0827IT231062
+
+server.port=${PORT:8080}
